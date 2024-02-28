@@ -1,0 +1,191 @@
+.first-but {
+    padding-right: 1px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border-style: solid;
+    font-size: 18px;
+    border-width: thin;
+}
+.last-but {
+    padding-right: 1px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border-style: solid;
+    font-size: 18px; 
+    margin-left: 5px;
+    border-width: thin;
+    margin-bottom: 10px;
+
+}
+.email-but {
+    display: block;
+    padding-right: 240px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border-style: solid;
+    font-size: 18px; 
+    border-width: thin;
+    margin-bottom: 10px;
+
+}
+.sign-but {
+    background-color: rgb(0, 68, 255);
+    color: white;
+    font-weight: bold;
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.cats {
+    width: 200px;
+    border: none;
+    height: 180px;
+    object-fit: cover;
+    object-position: center;
+    vertical-align: middle;
+    margin-top: 10px;
+    padding-left: 50px;
+}
+.back-u {
+        color: rgb(0, 113, 128);
+        font-size: 20px;
+        font-weight: 900px;
+        transition: color 0.15s;
+    }
+    .back-u:hover {
+     color: red;   
+    }
+    .nikee-u {
+        color: black;
+        font-size: 25px;
+        font-weight: 600;
+        line-height: 0.5;
+        margin-top: 15px;
+        padding-left: 50px;
+    
+    }
+    .stock-u {
+        color: rgb(0, 61, 10);
+        font-size: 30px;
+        font-weight: bold;
+        padding-left: 50px;
+    }
+    .free-u {
+        color: black;
+        font-size: 30px;
+        font-weight: 900px;
+    }
+    .add-button {
+        background-color: rgba(255, 216, 20);
+        height: 30px;
+        width: 180px;
+        border: none;
+        border-radius: 20px;
+        color: black;
+        cursor: pointer;
+        font-weight: bold;
+        font-size: 18px;
+        cursor: pointer;
+        transition: opacity 0.15s;
+        margin-bottom: 0;
+    } 
+    .add-button:hover {
+        opacity: 0.8;
+    }
+    .add-button:hover {
+        opacity: 0.5;
+    }
+    .buyy-button {
+        background-color: rgb(255, 164, 28);
+        color: black;
+        border: none;
+        border-radius: 20px;
+        font-weight: bold;
+        font-size: 18px;
+        height: 30px;
+        width: 180px;
+        margin-left: 0px;
+        cursor: pointer;
+        transition: opacity 0.15s;
+
+    }
+    .buyy-button:hover {
+        opacity: 0.8;
+    }
+    .buyy-button:active {
+        opacity: 0.5;
+    }
+    .container {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+        grid-gap: 20px;
+        margin-top: 10px;
+        position: relative;
+        margin-bottom: 0;
+    }
+    .catss {
+        width: 200px;
+        border: none;
+        height: 150px;
+        object-fit: cover;
+        object-position: center;
+        vertical-align: middle;
+        margin-top: 10px;
+        padding-left: 80px;
+    }
+    p {
+        font-family: Arial;
+    }
+    .new-button {
+        padding-left: 170px;
+        color: red;font-size: 10px;
+        margin-top: 0;
+        margin-bottom: 5px;
+        font-size: 20px;
+    
+    }
+    .mac-button {
+        font-weight: bold;
+        font-size: 20px;
+        padding-left: 120px;
+        margin-top: 0;
+        margin-bottom: 2px;
+    }
+    .super-button {
+        font-weight: bold;
+        font-size: 30px;
+        padding-left: 15px;
+        margin-top: 0;
+        margin-bottom: 5px;
+    }
+    .buy-button {
+        background-color: rgb(4, 65, 196);
+        color: white;
+        border: none;
+        border-radius: 15px;
+        padding-right: 15px;
+        padding-left: 15px;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        margin-top: 0;
+        margin-left: 130px;
+        font-size: 15px;
+    }
+    .from-button {
+        padding-left: 120px;
+        margin-top: 0;
+        margin-bottom: 8px;
+        font-size: 15px;
+        color: darkgreen;
+        font-weight: 600;
+    }
